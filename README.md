@@ -1,13 +1,12 @@
-# ProsperaNJ Website
+# Prospera Website
 
-Static website for ProsperaNJ, a student-led organization focused on early academic exposure for middle school students.
+Static website for Prospera, a student-led organization focused on early academic exposure for middle school students.
 
 ## What is included
 
 - `index.html` home page
 - `about.html` about and leadership page
 - `programs.html` curriculum overview
-- `pricing.html` pricing and structure page
 - `resources.html` lesson plan and resource portal
 - `contact.html` enrollment and partner contact page
 - `styles.css` shared site styles
