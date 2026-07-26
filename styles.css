@@ -634,13 +634,13 @@ textarea:focus {
     width: 100%;
     overflow: hidden;
     border-radius: 16px;
-}
+  }
 
-.google-form-container iframe {
-    display: block;
-    width: 100%;
-    border: none;
-}
+  .google-form-container iframe {
+      display: block;
+      width: 100%;
+      border: none;
+  }
 
   .resource-link {
     flex-direction: column;
