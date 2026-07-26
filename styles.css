@@ -629,6 +629,18 @@ textarea:focus {
     width: 62px;
     height: 62px;
   }
+  
+  .google-form-container {
+    width: 100%;
+    overflow: hidden;
+    border-radius: 16px;
+  }
+
+  .google-form-container iframe {
+      display: block;
+      width: 100%;
+      border: none;
+  }
 
   .resource-link {
     flex-direction: column;
