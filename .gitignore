@@ -16,3 +16,9 @@ Thumbs.db
 # Build artifacts if the site later gains a build step
 dist/
 build/
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
